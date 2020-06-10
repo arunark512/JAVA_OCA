@@ -6,7 +6,6 @@ public class Test {
 	String s=new String();
 	System.out.println(t==o);
 	System.out.println(o==s);
-//	System.out.println(i==s);
 	}
 
 }
